@@ -1,0 +1,145 @@
+#mainContainer{
+    background: #fff url(../../src/images/background.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    width: 100%;
+    height: 1300px;
+}
+
+body{
+    overflow: hidden;
+}
+
+.container{
+    background: rgba(255, 255, 255, 0.2);
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.index-row2{
+    margin-top: 5px;
+}
+
+.index .index-row{
+    text-align: center;
+    color: #fff;
+    font-size: 30px;
+} 
+
+.index-row .index-row2,.index-row .index-row3{
+    height: 200px;
+}
+
+.index-row .index-row4{
+    height: 80px;
+}
+
+.index-row .index-row5{
+    height: 50px;
+}
+
+.ant-carousel div {
+    height: 200px;
+    overflow: hidden;
+}
+
+.ant-carousel .slick-dots{
+    top:90%!important;
+}
+
+.ant-carousel .slick-dots li button{
+    width: 40px!important;
+    height: 4px!important;
+}
+
+.ant-card-head-title{
+    color: #fff!important;
+    font-size: 20px!important;
+}
+
+.ant-card-bordered{
+    border: none!important;
+}
+
+.dynamic-resource{
+    width: 100%;
+    height: 200px;
+    background: #7fbb25!important;
+}
+
+.dynamic-resource .ant-card-head{
+    background: #7fbb25!important;
+}
+
+.lecture-activity{
+    width: 100%;
+    height: 200px;
+    background: #0c65b5!important;
+}
+
+.lecture-activity .ant-card-head{
+    background: #0c65b5!important;
+}
+
+.myLibrary{
+    width: 100%;
+    height: 200px;
+    background: #6955d2!important;
+}
+
+.myLibrary .ant-card-head{
+    background: #6955d2!important;
+}
+
+.resource{
+    width: 100%;
+    height: 200px;
+    background: #b352a3!important;
+}
+
+.resource .ant-card-head{
+    background: #b352a3!important;
+}
+
+.service{
+    width: 100%;
+    height: 200px;
+    background: #c7bb24!important;
+}
+
+.service .ant-card-head{
+    background: #c7bb24!important;
+}
+
+.survey{
+    width: 100%;
+    height: 200px;
+    background: #c54f4f!important;
+}
+
+.survey .ant-card-head{
+    background: #c54f4f!important;
+}
+
+.footer{
+    background: #000000;
+    height: 50px;
+}
+
+.footer p{
+    margin-top: 12px;
+    font-size: 15px;
+}
+
+.resource-search .ant-tabs-nav-wrap{
+    color: #fff;
+}
+
+.ant-tabs-content{
+    color: #fff;
+}
